@@ -1,8 +1,8 @@
 ---
 permalink: /about/
-title: "About"
+title:
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+![image-center](/assets/images/headshot.jpg){: .align-center}
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Joshua Taubenheim is a seasoned technical writer and analyst with nearly a decade of experience developing clear, concise documentation for both technical and non-technical audiences. His work spans a wide range of formats, including training materials, standard operating procedures (SOPs), technical reports, and more. In addition to his writing and analysis expertise, Joshua is continuously advancing his software development skills to stay aligned with evolving industry needs.To learn more about his background and experience, please visit his LinkedIn profile. For collaboration or project inquiries, feel free to reach out via LinkedIn direct message or email at joshua.taubenheim@gmail.com.
