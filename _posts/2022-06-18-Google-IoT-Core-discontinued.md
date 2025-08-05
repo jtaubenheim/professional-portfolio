@@ -11,7 +11,7 @@ tags:
   - Google
 ---
 
-{% include figure popup=true image_path="/assets/images/road-block.jpg" %}
+{% include figure popup=true image_path="/assets/images/road-closed.jpg" %}
 
 On August 18, 2022, Google announced the planned discontinuation of Google IoT Core, Google’s platform for managing IoT devices and their data. This will leave many enterprises without a necessary part of their IoT systems within one year. In this article, we’ll review why Google is doing this and provide MachNation’s recommendations on what enterprises running Google IoT Core should do.
 

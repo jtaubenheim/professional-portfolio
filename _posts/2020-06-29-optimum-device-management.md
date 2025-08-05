@@ -22,7 +22,7 @@ The IoT device management (DM) space is one of the most important and complex te
 
 MachNation, an IoT test and benchmarking lab, has been asked by our enterprise and service provider (SP) clients to evaluate IoT DM offerings. MachNation published the results of this technology and business evaluation in our fourth annual IoT Device Management ScoreCard. This ScoreCard aids enterprise and SP buyers in their selection processes and provides guidelines for the most important characteristics of IoT device management.
 
-![image-center](/assets/images/iotNow-figure1.png){: .align-center}
+{% include figure popup=true image_path="/assets/images/iotNow-figure1.png" %}
 
 ## What is an IoT device management platform?
 
@@ -36,7 +36,7 @@ MachNation selects a group of participating vendors that adequately represent th
 
 There are many ways to classify IoT device management vendors. Based on MachNation’s experiences in helping enterprises and SPs pick appropriate IoT DM vendor partners, MachNation has assembled two graphics to visualise the IoT DM vendor ecosystem.
 
-![image-center](/assets/images/iotNow-figure2.png){: .align-center}
+{% include figure popup=true image_path="/assets/images/iotNow-figure2.png" %}
 
 First, MachNation believes it helpful to classify vendors by their relevant business characteristics and IoT DM technology capabilities. (See Figure 1.) This 2×2 matrix helps decision makers understand vendors’ positions from a business perspective and the strengths of their DM technology offering. MachNation classifies IoT DM platforms into four buckets: market ready, business ready, technology ready, and challengers.
 
@@ -46,7 +46,7 @@ Device management platforms are a key IoT enabler and a critically important com
 
 MachNation suggests that enterprises evaluate DM platforms across four categories: excellent lifecycle management capabilities; a cogent and robust architecture and security model; an easy and efficient integration approach; and a forward-thinking business strategy. (See Figure 3.)
 
-![image-center](/assets/images/iotNow-figure3.png){: .align-center}
+{% include figure popup=true image_path="/assets/images/iotNow-figure3.png" %}
 
 Let’s discuss each of these four requirement categories a bit more.
 

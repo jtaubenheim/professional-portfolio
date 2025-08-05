@@ -17,7 +17,7 @@ tags:
 **This article originally appeared on [iotforall.com](https://www.iotforall.com/thin-vs-thick-edge-in-enterprise-iot-deployments).**
 {: .notice--info}
 
-![image-center](/assets/images/iotForAll-header.jpg){: .align-center}
+{% include figure popup=true image_path="/assets/images/iotForAll-header.jpg" %}
 
 Industry experts agree that critical infrastructure for Internet-of-Things (IoT) deployments will continue to shift towards the edge. As new use cases emerge across industries investing in their digital transformation journeys, the diversification of edge-enabled physical hardware will continue to expand with technology and business requirements. Edge deployments in IoT are highly diverse and exist within a spectrum between "thin" and "thick". Lets take a look at thin vs. thick edge IoT, compare and contrast both ends of that spectrum, and then take a look at some of the technical requirements for enterprise IoT deployments for each.
 

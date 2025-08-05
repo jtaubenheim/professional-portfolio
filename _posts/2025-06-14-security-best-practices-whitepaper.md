@@ -11,7 +11,7 @@ tags:
   - Best-Practices
 ---
 
-![image-center](/assets/images/sc-whitepaper.png){: .align-center}
+{% include figure popup=true image_path="/assets/images/sc-whitepaper.png" %}
 
 Executive summary of a whitepaper I authored at Scale Computing as the Technical Writer for the Engineering and Product teams. The report outlines best practices for customers to secure their infrastructure. The full version is available online [here](https://www.scalecomputing.com/documents/White-Papers/Security-Best-Practices-White-Paper.pdf).
 {: .notice--info}

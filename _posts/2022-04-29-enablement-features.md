@@ -11,7 +11,7 @@ tags:
   - Archive
 ---
 
-![image-center](/assets/images/machnation-enablement-header.jpg)
+{% include figure popup=true image_path="/assets/images/machnation-enablement-header.jpg" %}
 
 **This article originally appeared on MachNation.com.**
 {: .notice--info}
