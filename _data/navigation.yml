@@ -1,5 +1,7 @@
 main:
+##  - title: "FEATURED - Azure IoT Hub Developer Experience"
+##    url: /featured/
   - title: "Posts by Tag"
     url: /tags/
-  - title: "About"
+  - title: "About Me"
     url: /about/

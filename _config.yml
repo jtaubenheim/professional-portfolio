@@ -64,11 +64,11 @@ plugins:
 author:
   name   : "Bio"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "I'm Joshua (Josh) Taubenheim, a writer with a deep passion for technology. I love exploring how words and innovation intersect, whether through storytelling, blogging, or breaking down complex tech into something human. I created this space to keep a record of my previous work, share thoughts, tools, and the occasional tangent.."
+  bio    : "I’m Joshua (Josh) Taubenheim, a technical writer, project manager, and hardware hobbyist. From developer docs to blogs to just stuff I like to write about, it has been my life's most fulfilling pursuit to create engaging and informative things that better those who read them. I created this space to archive some of my previous work and showcase the breadth of my interests.<br><br>I am currently seeking new opportunities to continue my career in this exciting and fulfilling field of work. If you'd like to discuss please don't hesitate to reach out on LinkedIn or directly!"
   links:
     - label: "Email"
       icon: "fa-solid fa-envelope"
-      link: "joshua.taubenheim@gmail.com"
+      url: "mailto:joshua.taubenheim@gmail.com"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
       url: "https://www.linkedin.com/in/jtaubenheim/"
@@ -97,8 +97,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
@@ -107,6 +107,14 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _featured
+  - scope:
+      path: "_featured"
+      type: featured
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
 
 category_archive:
   type: liquid
