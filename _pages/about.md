@@ -9,7 +9,7 @@ title:
    class="avatar-circle" 
 %}
 
-I’m Joshua (Josh) Taubenheim, a technical writer, project manager, and hardware hobbyist. From developer docs to blogs to just stuff I like to write about, it has been my life’s most fulfilling pursuit to create engaging and informative things that better those who read them. I created this space to archive some of my previous work and showcase the breadth of my interests.
+I’m Joshua (Josh) Taubenheim, a technical writer, project manager, and hardware hobbyist. I have worked in the technology industry for over 7 years helping development teams level-up their knowledge bases, creating compelling research content in the field of IoT, and innovating new ways for enterprise organizations to effectively manage their documentation workflows.
 
 In my free time I like to visit the mountains of North Carolina, take walks with my Goldendoodle Archer, experiment new home automations with personal computing boards, and, most importantly, enjoy a movie with ice cream at the end of the day with my family.
 
